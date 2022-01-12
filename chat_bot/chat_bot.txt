@@ -1,0 +1,8 @@
+#   classify them into different intents
+##  find meaningfull entities from those utterances.
+### tag those utterances with the entities.
+   1.greatings_txt
+     2.user_input_txt
+      3.agree_txt
+        4.declinig_txt
+          5.return_txt
