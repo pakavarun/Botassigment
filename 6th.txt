@@ -1,0 +1,7 @@
+#created key,value for dict based on user input
+#combine with loop to avoid manual repetitation
+class_list = dict()
+d= input('enter_name & id_seperated_by ":" ')
+temp = d.split(':')
+class_list[temp[0]] = int(temp[1])
+list ({v['id_seperated_by']:v for v in d}.values())
