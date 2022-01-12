@@ -1,0 +1,18 @@
+Wellcome=[
+'hey how are you',
+'how you doin',
+'hello how you doing',
+'how are you doing',
+'hey whats going on',
+'hello mate!',
+'hello my friend',
+'hello my dear friend!',
+'hello how are you',
+'good morning!',
+'hi friend',
+'Hey friend',
+'Good Evening!',
+'laters',
+'how have you been',
+'how are things going',
+'What is going on, go on!']

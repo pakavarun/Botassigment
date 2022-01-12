@@ -1,0 +1,28 @@
+Declined = [
+'nop',
+'No, i want to check few things before that.',
+'no i am not',
+'No, I changed my mind.',
+'nope',
+'nay',
+'nope',
+'Nope',
+'no nothing else',
+'nono',
+'no chance',
+'Nah',
+'naah',
+'No chance',
+'no way',
+'not a chance',
+'no',
+'Not at all',
+'Not possible',
+'nope',
+'i am not registered',
+'the sky is not clear']
+
+
+
+
+
